@@ -21,5 +21,7 @@ Python | SQL | Power BI | Excel | Machine Learning | LLMs | Statistics
 - Supply Chain Demand Forecasting & Scenario Simulator
 
 📫 Email: your.email@email.com  
-🔗 LinkedIn: https://www.linkedin.com/in/kumarashish23/ 
+
+🔗 LinkedIn: https://www.linkedin.com/in/kumarashish23
+
 🌐 Portfolio: https://www.notion.so/Ashish-Kumar-Analytics-Profile-2e78f21df30b80978bf7edf2758f5525?source=copy_link
